@@ -49,6 +49,12 @@ O diagrama de casos de uso apresenta as principais funcionalidades do SGPD — S
 📄 [Visualizar Diagrama Completo de Casos de Uso — UML (PDF)](sgpd-diagrama-completo-v3.pdf)
 
 
+## 🎨 Protótipo Navegável — Figma
+
+Foi desenvolvido um protótipo navegável do SGPD – Sistema de Gestão de Processos Digitais, representando as principais funcionalidades, a navegação entre as telas e a experiência do usuário.
+
+🔗 [Acessar Protótipo Navegável no Figma](https://www.figma.com/proto/xKY0Rv83MSiTPbXN2SHZls/Sem-t%C3%ADtulo?node-id=2-6&t=Q9E97fnezx9iUMTQ-1&starting-point-node-id=2%3A6)
+
 ## 📊 Resultados e Aprendizados
 
 A solução proposta demonstrou potencial para integrar processos, reduzir erros, retrabalho e tempo de atendimento, além de melhorar a experiência do cliente.
