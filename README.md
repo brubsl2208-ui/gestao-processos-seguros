@@ -41,6 +41,14 @@ O processo atual (AS-IS) foi modelado utilizando BPMN para representar o fluxo d
 
 ![Diagrama BPMN do Processo Atual (AS-IS)](diagrama-bpmn-processo-atual.jpg)
 
+
+## 🧩 Diagrama de Casos de Uso — UML
+
+O diagrama de casos de uso apresenta as principais funcionalidades do SGPD — Sistema de Gestão de Processos Digitais, seus atores e as interações com o sistema. A modelagem contempla relações `<<include>>` e `<<extend>>`, além da rastreabilidade entre requisitos funcionais e casos de uso.
+
+📄 [Visualizar Diagrama Completo de Casos de Uso — UML (PDF)](sgpd-diagrama-completo-v3.pdf)
+
+
 ## 📊 Resultados e Aprendizados
 
 A solução proposta demonstrou potencial para integrar processos, reduzir erros, retrabalho e tempo de atendimento, além de melhorar a experiência do cliente.
