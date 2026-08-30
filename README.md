@@ -35,6 +35,12 @@ O projeto envolveu:
 - Prototipação de Interfaces
 - Testes de Usabilidade
 
+  ## 🔄 Modelagem do Processo — BPMN
+
+O processo atual (AS-IS) foi modelado utilizando BPMN para representar o fluxo de atendimento e tratamento das solicitações, evidenciando as atividades, os responsáveis, os pontos de decisão e os principais gargalos do processo.
+
+![Diagrama BPMN do Processo Atual (AS-IS)](diagrama-bpmn-processo-atual.jpg)
+
 ## 📊 Resultados e Aprendizados
 
 A solução proposta demonstrou potencial para integrar processos, reduzir erros, retrabalho e tempo de atendimento, além de melhorar a experiência do cliente.
